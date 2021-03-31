@@ -1,5 +1,5 @@
 window.onload = () => {
-    const done = 50;
+    const done = 45;
     let i = 0;
     if (i == 0) {
         i = 1;
