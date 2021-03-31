@@ -2,4 +2,5 @@
 
 Simple progress bar using CSS and JS
 
-[Valkunas.lt](https://www.valkunas.lt "My Portfolio")
+[https://www.valkunas.lt/todo-list](www.Valkunas.lt)
+[https://www.linkedin.com/in/matas-valk%C5%ABnas-812127124/](LinkedIn)
